@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# Quest 19: The Countdown - rocket launch
-for i in range(10, 0, -1):
-    print(i)
+
+for count in range(10, 0, -1):
+    print(count)
+
 print("Blastoff!")
