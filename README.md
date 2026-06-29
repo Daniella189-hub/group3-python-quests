@@ -24,49 +24,73 @@ Member 7     Kelvin             quests 18,19,21,22
 ### Level 1: Words & Numbers (Variables & Printing)
 
 Quest 1: Print a welcome message
+
 Quest 2: Create hero variables (name + power)
+
 Quest 3: Create age & food variables, print them
+
 Quest 4: Dynamic message with city, year, name
+
 Quest 5: Update player_health (subtract, add, print)
 
 ### Level 2: User Input & Math
 
 Quest 6: Ask for name & quest, confirm
+
 Quest 7: Birth year → calculate age
+
 Quest 8: Calculate dragon scale + elf tear costs
+
 Quest 9: Goblin splits gold, find remainder
+
 Quest 10: Calculate rectangle area (decimals)
 
 ### Level 3: Logic (if/else)
 
 Quest 11: Check if age >= 18 (voting)
+
 Quest 12: Password checker (correct/denied)
+
 Quest 13: Grade calculator (A/B/C based on score)
+
 Quest 14: Club bouncer (age AND gold check)
+
 Quest 15: Mini-adventure (nested if with choices)
 
 ### Level 4: Loops
 
 Quest 16: Print 1-10 with for loop
+
 Quest 17: Counter loop (0 to 5 with while)
+
 Quest 18: Guessing game (while loop)
+
 Quest 19: Countdown 10-1, print "Blastoff!"
+
 Quest 20: Print even numbers 1-20
 
 ### Level 5: Functions
 
 Quest 21: Greet function, call 3x
+
 Quest 22: Personalized greeting with parameters
+
 Quest 23: Calculate rectangle area, return value
+
 Quest 24: ask_for_age() + can_they_vote() chain
 
 ### Level 6: Grand Challenges
 
 Quest 25: Number guessing game (too high/low feedback)
+
 Quest 26: Simple calculator (add, subtract, etc.)
+
 Quest 27: FizzBuzz (1-100)
+
 Quest 28: Text adventure game
+
 Quest 29: Secret code (3 attempts) ← This is what you just did!
+
 Quest 30: Comment 3 previous assignments
 
 ## Git Collaboration Workflow
