@@ -6,13 +6,19 @@ The goal of the project is to tackele different python quests from different lev
 each level is tackling 3-6 tasks each and tackle basic and complex python programs that we have studied till now.
 ## Group Memebers and Responsibilities
 #### member      name           Responsibility
-Member 1	Shawn Shiloh	     quests 1,6,11,25
-Member 2	Beryl Pat	         quests 2,7,12,23
-Member 3	Belin Sammy	       quests 3,8,13,26
-Member 4	Desire DE Dieu     quests 4,9,14,27
-Member 5	Mireille Uwase	   quests 5,10,15,28,17
-Member 6	Marie-Daniella 	   quests 16,20,24,29,30
-Member 7  Kelvin             quests 18,19,21,22
+Member 1	    Shawn Shiloh	     quests 1,6,11,25
+
+Member 2   	Beryl Pat	         quests 2,7,12,23
+
+Member 3   	Belin Sammy	       quests 3,8,13,26
+
+Member 4	   Desire DE Dieu     quests 4,9,14,27
+
+Member 5	   Mireille Uwase	   quests 5,10,15,28,17
+
+Member 6	   Marie-Daniella 	   quests 16,20,24,29,30
+
+Member 7     Kelvin             quests 18,19,21,22
 
 ## Project Levels and theirs quests(the files).
 ### Level 1: Words & Numbers (Variables & Printing)
