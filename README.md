@@ -2,8 +2,9 @@
 ## Learn Python by Coding
 this project was completed by Group3 as part of the Python Basics: Peer Group Review.
 
-The goal of the project is to tackele different python quests from different levels by using shell scritpting with a shebang from python, linux permissions, and Git collaboration, our team built codes that respond to different quests from 6 already known levels.
-each level is tackling 3-6 tasks each and tackle basic and complex python programs that we have studied till now.
+The goal of the project is to tackle different python quests from different levels by using shell scripting with a shebang from python, linux permissions, and Git collaboration. Our team built codes that respond to different quests from 6 already known levels.
+
+each level is tackling 3-6 tasks and tackles basic and complex python programs that we have studied till now.
 ## Group Memebers and Responsibilities
 #### member      name           Responsibility
 Member 1	    Shawn Shiloh	     quests 1,6,11,25
@@ -99,6 +100,7 @@ this workflow helped the team collaboration to be effective while avoid merge co
 
 ## How to run the project
 vi quest_{nbr_of quest_ and_title_of _quest}
+
 bash quest_{nbr_of quest_ and_title_of _quest}
 
 ## Technoligies used
