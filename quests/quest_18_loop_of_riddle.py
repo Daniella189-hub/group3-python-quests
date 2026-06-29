@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-
+# This program is a simple guessing game. It keeps asking the user
+# to guess the secret number until the correct number is entered.
 secret_number = 7
 guess = 0
 
